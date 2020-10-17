@@ -1,0 +1,7 @@
+ul.side-menu-container li {
+    list-style: none;
+  }
+  .side-menu img {
+    width: 220px;
+    padding: 20px;
+}

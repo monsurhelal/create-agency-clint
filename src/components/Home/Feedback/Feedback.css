@@ -1,0 +1,28 @@
+h2.feedback-title {
+    text-align: center;
+    margin: 40px 0;
+    color: #171B4E;
+}
+.content-box-aria {
+    width: 350px;
+    margin: 0px 12px;
+    box-shadow: -1px 5px 10px #b1afaf;
+    padding: 21px;
+    margin-bottom: 70px;
+}
+
+.clints-name {
+    width: 300px;
+    overflow: hidden;
+}
+
+.clints-img img {
+    width: 50px;
+    float: left;
+    margin-top: 6px;
+}
+
+.clints-workat {
+    width: 228px;
+    float: right;
+}

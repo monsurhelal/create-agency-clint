@@ -1,0 +1,38 @@
+.login-aria img {
+    width: 209px;
+    margin-top: 50px;
+}
+
+.login-aria {
+    text-align: center;
+}
+
+.login-box {
+    border: 1px solid #868484;
+    width: 400px;
+    margin: auto;
+    margin-top: 85px;
+}
+
+.login-box h3 {
+    margin: 29px 0;
+}
+
+.login-box input {
+    border-radius: 24px;
+    outline: none;
+    border: 1px solid #909090;
+    margin-bottom: 25px;
+    padding: 10px 59px 10px 79px;
+}
+
+.login-box p {
+    margin-bottom: 40px;
+}
+i.fab.fa-google {
+    font-size: 23px;
+    position: relative;
+    left: 32px;
+    top: 3px;
+    color: deepskyblue;
+}

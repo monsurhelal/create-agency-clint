@@ -1,0 +1,35 @@
+header.header-aria {
+    margin-top: -8px;
+}
+header.header-aria {
+    background: #FBD062;
+    position: fixed;
+    width: 100%;
+    z-index: 11;
+
+}
+a.nav-link {
+    margin-top: -5px !important;
+}
+a.navbar-brand img {
+    height: 50px;
+}
+ul.navbar-nav .nav-item a {
+    color: black !important;
+    font-size: 20px;
+    margin: 0px 9px 0px 9px;
+    font-weight: 500;
+}
+a#login , a#admin{
+    color: #fdfdff !important;
+    padding: 8px 17px 8px 17px;
+    border-radius: 5px;
+}
+a#login{
+    background: #111430;
+    margin-top: -29px;
+}
+a#admin{
+    background:linear-gradient(129deg, #37ff90, #2ab3c1);
+    margin-top: -29px;
+}

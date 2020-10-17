@@ -1,0 +1,31 @@
+.service-box img {
+    width: 58px;
+    transition: all 1s;
+}
+
+.service-box {
+    text-align: center;
+    margin-bottom: 105px;
+}
+
+.service-box h2 {
+    margin: 21px 0px 21px;
+    font-size: 16px;
+}
+
+.service-box p {
+    font-size: 14px;
+    color: #8c7777;
+}
+.service-box:hover img {
+    transform: rotate(360deg);
+   
+}
+/* @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  } */
